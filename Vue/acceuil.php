@@ -21,7 +21,7 @@
                 </header>
                 <section id="section1">
                     <p id="presentation">
-                        </br>Je suis un développeur web qui a initié sa reconversion en 2021 et qui la poursuit depuis le mois d'octobre 2022.</br> L'IT était une curiosité, c'est maintenant une passion, surtout sur la partie développement back-end et programmation. Cette curiosité me pousse à toujours apprendre, ma soif de savoir est plus que comblée dans ce domaine qui ne cesse d'évoluer. J'ai un attrait pour la <strong>cybersécurité</strong>, la blockchain et l'IA dans son ensemble. Mon stage de 10 semaines effectué chez Aegis-Civis groupe en 2023 m'a permis de découvrir plus en profondeur les différents aspects de la cybersécurité. Ma formation de développeur web et web mobile s'est terminée fin Août 2023 et j'ai obtenu mon titre ce qui atteste des compétences acquises. Au cours de ma formation, j'ai développé des compétences en développement front-end et back-end, en communication avec des API, en implémentation de bases de données relationnelles et en utilisation de frameworks comme symfony. Je commence à apprendre le Java.</br>
+                        </br>Je suis un développeur web qui a initié sa reconversion en 2021 et qui la poursuit depuis le mois d'octobre 2022.</br> L'IT était une curiosité, c'est maintenant une passion, surtout sur la partie développement back-end et programmation. Cette curiosité me pousse à toujours apprendre, ma soif de savoir est plus que comblée dans ce domaine qui ne cesse d'évoluer. J'ai un attrait pour la <strong>cybersécurité</strong>, la blockchain et l'IA dans son ensemble. Mon stage de 10 semaines effectué chez Aegis-Civis groupe en 2023 m'a permis de découvrir plus en profondeur les différents aspects de la cybersécurité. Ma formation de développeur web et web mobile s'est terminée fin Août 2023 et j'ai obtenu mon titre ce qui atteste des compétences acquises. Au cours de ma formation, j'ai développé des compétences en développement front-end et back-end, en communication avec des API, en implémentation de bases de données relationnelles et en utilisation de frameworks comme symfony.</br>
 
                         Le mode intermédiaire est en cours de chargement.</br>
 
@@ -97,11 +97,6 @@
                     </div>
                     <div class="img">
                         <img src="assets/img/Screen calcul.png" alt="img4">
-                        <div class="info">
-                        </div>
-                    </div>
-                    <div class="img">
-                        <img src="assets/img/Exemple USE CASE.png" alt="img4">
                         <div class="info">
                         </div>
                     </div>
